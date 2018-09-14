@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rechnungssammlung>
+	<rechnung>
+		<leistungsempfaenger>
+			<anrede>Dr. med.</anrede>
+			<name>Cyprian Zottel</name>
+		</leistungsempfaenger>
+		<rechnungsdatum>2017-08-08</rechnungsdatum>
+		<rechnungsnummer>98-798-7987</rechnungsnummer>
+		<dienstleistungen>
+			<dienstleistung>
+				<position>1</position>
+				<art-der-dienstleistung>Grippemittel "Tumifla"</art-der-dienstleistung>
+				<betrag>120</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>2</position>
+				<art-der-dienstleistung>Beratung pauschal</art-der-dienstleistung>
+				<betrag>50</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>3</position>
+				<art-der-dienstleistung>Abführmittel "Wech damit"</art-der-dienstleistung>
+				<betrag>99.99</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>4</position>
+				<art-der-dienstleistung>Energieriegel "Satto"</art-der-dienstleistung>
+				<betrag>5.98</betrag>
+			</dienstleistung>
+		</dienstleistungen>
+		<kosten>
+			<entgeld>
+				<betrag>621.94</betrag>
+			</entgeld>
+		</kosten>
+	</rechnung>
+	<rechnung>
+		<leistungsempfaenger>
+			<anrede>Frau</anrede>
+			<name>Sybille Sonder-Suttelrau</name>
+			<adresse>
+				<strasse>Am Süttelbach</strasse>
+				<hausnummer>17</hausnummer>
+				<postleitzahl>77070</postleitzahl>
+				<ort>Siedelsuderstadt</ort>
+			</adresse>
+		</leistungsempfaenger>
+		<rechnungsdatum>2017-01-15</rechnungsdatum>
+		<rechnungsnummer>657321</rechnungsnummer>
+		<dienstleistungen>
+			<dienstleistung>
+				<position>1</position>
+				<art-der-dienstleistung>Antike Holzwürmer</art-der-dienstleistung>
+				<betrag>1.5</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>2</position>
+				<art-der-dienstleistung>Holzwurmfetter</art-der-dienstleistung>
+				<betrag>34.45</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>3</position>
+				<art-der-dienstleistung>Steinlaus,Petrophaga lorioti</art-der-dienstleistung>
+				<betrag>777.77</betrag>
+			</dienstleistung>
+		</dienstleistungen>
+		<kosten>
+			<entgeld>
+				<betrag>962.22</betrag>
+			</entgeld>
+		</kosten>
+	</rechnung>
+	<rechnung>
+		<leistungsempfaenger>
+			<anrede>Famile</anrede>
+			<name>Urmel</name>
+		</leistungsempfaenger>
+		<rechnungsdatum>2017-10-19</rechnungsdatum>
+		<rechnungsnummer>893 213 11</rechnungsnummer>
+		<dienstleistungen>
+			<dienstleistung>
+				<position>1</position>
+				<art-der-dienstleistung>Urne, Eiche massiv</art-der-dienstleistung>
+				<betrag>299.99</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>2</position>
+				<art-der-dienstleistung>Überführung Krematorium Feuerbach inkl. Begleitpersonal</art-der-dienstleistung>
+				<betrag>349.00</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>3</position>
+				<art-der-dienstleistung>Dekoration</art-der-dienstleistung>
+				<betrag>149.50</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>4</position>
+				<art-der-dienstleistung>Trauerkarten inkl. Briefmarken</art-der-dienstleistung>
+				<betrag>2.00</betrag>
+			</dienstleistung>
+		</dienstleistungen>
+		<kosten>
+			<entgeld>
+				<betrag>878.49</betrag>
+			</entgeld>
+		</kosten>
+	</rechnung>
+	<rechnung>
+		<leistungsempfaenger>
+			<anrede>Herr</anrede>
+			<name>Claudius Artemis</name>
+			<adresse>
+				<strasse>Am Wolfsweiher</strasse>
+				<hausnummer>7</hausnummer>
+				<postleitzahl>56741</postleitzahl>
+				<ort>Hirschhausen</ort>
+			</adresse>
+		</leistungsempfaenger>
+		<rechnungsdatum>2017-08-09</rechnungsdatum>
+		<rechnungsnummer>1</rechnungsnummer>
+		<dienstleistungen>
+			<dienstleistung>
+				<position>1</position>
+				<art-der-dienstleistung>Vogelschnepper, um 1600</art-der-dienstleistung>
+				<betrag>3499</betrag>
+			</dienstleistung>
+			<dienstleistung>
+				<position>2</position>
+				<art-der-dienstleistung>Schusser, um 1720</art-der-dienstleistung>
+			</dienstleistung>
+		</dienstleistungen>
+		<kosten>
+			<entgeld>
+				<betrag>3598.99</betrag>
+			</entgeld>
+		</kosten>
+	</rechnung>
+	<rechnung>
+		<leistungsempfaenger>
+			<anrede>Herr</anrede>
+			<name>Müller-Lüdenscheid</name>
+			<adresse>
+				<strasse>Badstrasse</strasse>
+				<hausnummer>3</hausnummer>
+				<postleitzahl>17777</postleitzahl>
+				<ort>Dammhausen</ort>
+			</adresse>
+		</leistungsempfaenger>
+		<rechnungsdatum>2016-12-31</rechnungsdatum>
+		<rechnungsnummer>47-11</rechnungsnummer>
+		<dienstleistungen>
+			<dienstleistung>
+				<position>1</position>
+				<art-der-dienstleistung>Gummiente "Quietsch"</art-der-dienstleistung>
+				<betrag>19.99</betrag>
+			</dienstleistung>
+		</dienstleistungen>
+		<kosten>
+			<entgeld>
+				<betrag>19.99</betrag>
+			</entgeld>
+		</kosten>
+	</rechnung>
+</rechnungssammlung>

@@ -1,0 +1,447 @@
+<?xml  version="1.0" encoding="utf-8"?>
+<rechnungssammlung
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="rechneraufgabe_5_schema.xsd">
+    <rechnung>
+        <leistungssteller>
+            <name>Rochade-La Hoff Pharma GmbH</name>
+            <adresse>
+                <strasse>An der Chemie</strasse>
+                <hausnummer>17</hausnummer>
+                <postleitzahl>79639</postleitzahl>
+                <ort>Grenzych-Wahlen</ort>
+            </adresse>
+            <telefon>07624&#47;666 333 999</telefon>
+            <fax>07624&#47;666 333 990</fax>
+            <e-mail></e-mail>
+            <steuernummer>88 123&#47;82822</steuernummer>
+        </leistungssteller>
+        <leistungsempfaenger>
+            <anrede>Dr. med.</anrede>
+            <name>Cyprian Zottel</name>
+            <adresse>
+                <strasse>Soddelstrudel</strasse>
+                <hausnummer>5a</hausnummer>
+                <postleitzahl>13023</postleitzahl>
+                <ort>Zotenheim</ort>
+            </adresse>
+        </leistungsempfaenger>
+        <rechnungsdatum>8.8.2017</rechnungsdatum>
+        <rechnungsnummer>98-798-7987</rechnungsnummer>
+        <dienstleistungen>
+            <dienstleistung datum="">
+                <position>1</position>
+                <menge-oder-umfang>3 Packungen</menge-oder-umfang>
+                <art-der-dienstleistung>Grippemittel "Tumifla"</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>120</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>360</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst>19</mwst>
+            </dienstleistung>
+            <dienstleistung datum="">
+                <position>2</position>
+                <menge-oder-umfang></menge-oder-umfang>
+                <art-der-dienstleistung>Beratung pauschal</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>50</betrag>
+                    <waehrung></waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>50</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst>19</mwst>
+            </dienstleistung>
+            <dienstleistung datum="">
+                <position>3</position>
+                <menge-oder-umfang>2 Liter</menge-oder-umfang>
+                <art-der-dienstleistung>Abf&#252;hrmittel "Wech damit"</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>99.99</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>199.98</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst>19</mwst>
+            </dienstleistung>
+            <dienstleistung datum="">
+                <position>4</position>
+                <menge-oder-umfang>2 St&#252;ck</menge-oder-umfang>
+                <art-der-dienstleistung>Energieriegel "Satto"</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>5.98</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>11.96</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst>7</mwst>
+            </dienstleistung>
+        </dienstleistungen>
+        <kosten>
+            <steuerbetrag>
+                <betrag>116.74</betrag>
+                <waehrung>€</waehrung>
+            </steuerbetrag>
+            <entgeld>
+                <betrag>621.94</betrag>
+                <waehrung>€</waehrung>
+            </entgeld>
+            <nettobetrag>
+                <betrag>490.22</betrag>
+                <waehrung>€</waehrung>
+            </nettobetrag>
+        </kosten>
+        <zahlungsmoeglichkeiten>
+            <bankverbindung>
+                <BLZ>66050101</BLZ>
+                <Kontonummer>987654321</Kontonummer>
+                <Bank>Sparkasse Karlsruhe</Bank>
+            </bankverbindung>
+        </zahlungsmoeglichkeiten>
+    </rechnung>
+    <rechnung>
+        <leistungssteller>
+            <name>Kleintier Meier GmbH</name>
+            <adresse>
+                <strasse>Meierring</strasse>
+                <hausnummer>3</hausnummer>
+                <postleitzahl>81828</postleitzahl>
+                <ort>Machthausen</ort>
+            </adresse>
+            <telefon>0777&#47;987987</telefon>
+            <fax>0777&#47;987789</fax>
+            <e-mail>klein.meier&#64;tiere.de</e-mail>
+            <steuernummer>88123&#47;82822</steuernummer>
+        </leistungssteller>
+        <leistungsempfaenger>
+            <anrede>Frau</anrede>
+            <name>Sybille Sonder-Suttelrau</name>
+            <adresse>
+                <strasse>Am S&#252;ttelbach</strasse>
+                <hausnummer>17</hausnummer>
+                <postleitzahl>77070</postleitzahl>
+                <ort>Siedelsuderstadt</ort>
+            </adresse>
+        </leistungsempfaenger>
+        <rechnungsdatum>15.1.2017</rechnungsdatum>
+        <rechnungsnummer>657321</rechnungsnummer>
+        <dienstleistungen>
+            <dienstleistung datum="1.1.2017">
+                <position>1</position>
+                <menge-oder-umfang>100</menge-oder-umfang>
+                <art-der-dienstleistung>Antike Holzw&#252;rmer</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>1.5</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>150</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst>19</mwst>
+            </dienstleistung>
+            <dienstleistung datum="12.1.2017">
+                <position>2</position>
+                <menge-oder-umfang>1</menge-oder-umfang>
+                <art-der-dienstleistung>Holzwurmfetter</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>34.45</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>34.45</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst>19</mwst>
+            </dienstleistung>
+            <dienstleistung datum="12.1.2017">
+                <position>3</position>
+                <menge-oder-umfang>1</menge-oder-umfang>
+                <art-der-dienstleistung>Steinlaus,Petrophaga lorioti</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>777.77</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>777.77</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst>19</mwst>
+            </dienstleistung>
+        </dienstleistungen>
+        <kosten>
+            <steuerbetrag>
+                <betrag>153.63</betrag>
+                <waehrung>€</waehrung>
+            </steuerbetrag>
+            <entgeld>
+                <betrag>962.22</betrag>
+                <waehrung>€</waehrung>
+            </entgeld>
+            <nettobetrag>
+                <betrag>808.59</betrag>
+                <waehrung>€</waehrung>
+            </nettobetrag>
+        </kosten>
+        <zahlungsmoeglichkeiten>
+            <bankverbindung>
+                <IBAN>DE18 6837 0034 0999 6663 3</IBAN>
+                <BIC>DEUTDE6F683</BIC>
+            </bankverbindung>
+        </zahlungsmoeglichkeiten>
+    </rechnung>
+    <rechnung>
+        <leistungssteller>
+            <name>Bestattungen Unterberg</name>
+            <adresse>
+                <strasse>Oberweg</strasse>
+                <hausnummer>5</hausnummer>
+                <postleitzahl>43210</postleitzahl>
+                <ort>Ultursingen</ort>
+            </adresse>
+            <telefon>0478&#47;777555</telefon>
+            <fax></fax>
+            <e-mail>unter&#64;</e-mail>
+            <steuernummer>DE 987654321</steuernummer>
+        </leistungssteller>
+        <leistungsempfaenger>
+            <anrede>Famile</anrede>
+            <name>Urmel</name>
+            <adresse>
+                <strasse>Ulturenstrasse</strasse>
+                <hausnummer>764</hausnummer>
+                <postleitzahl>43210</postleitzahl>
+                <ort>Ultursingen</ort>
+            </adresse>
+        </leistungsempfaenger>
+        <rechnungsdatum>19.10.17</rechnungsdatum>
+        <rechnungsnummer>893 213 11</rechnungsnummer>
+        <dienstleistungen>
+            <dienstleistung>
+                <position>1</position>
+                <menge-oder-umfang>1</menge-oder-umfang>
+                <art-der-dienstleistung>Urne, Eiche massiv</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>299.99</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>299.99</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst></mwst>
+            </dienstleistung>
+            <dienstleistung>
+                <position>2</position>
+                <menge-oder-umfang>1</menge-oder-umfang>
+                <art-der-dienstleistung>&#220;berf&#252;hrung Krematorium Feuerbach inkl. Begleitpersonal</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>349.00</betrag>
+                    <waehrung></waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>349.00</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst></mwst>
+            </dienstleistung>
+            <dienstleistung>
+                <position>3</position>
+                <menge-oder-umfang>1</menge-oder-umfang>
+                <art-der-dienstleistung>Dekoration</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>149.50</betrag>
+                    <waehrung></waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>149.50</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst></mwst>
+            </dienstleistung>
+            <dienstleistung>
+                <position>4</position>
+                <menge-oder-umfang>40</menge-oder-umfang>
+                <art-der-dienstleistung>Trauerkarten inkl. Briefmarken</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>2.00</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>80.00</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst></mwst>
+            </dienstleistung>
+        </dienstleistungen>
+        <kosten>
+            <steuerbetrag>
+                <betrag>140.26</betrag>
+                <waehrung>€</waehrung>
+            </steuerbetrag>
+            <entgeld>
+                <betrag>878.49</betrag>
+                <waehrung>€</waehrung>
+            </entgeld>
+            <nettobetrag>
+                <betrag>738.23</betrag>
+                <waehrung>€</waehrung>
+            </nettobetrag>
+        </kosten>
+        <zahlungsmoeglichkeiten>
+            <bankverbindung>
+                <IBAN>DE16660501010077889911</IBAN>
+                <BIC>UBSWCHZH80H</BIC>
+            </bankverbindung>
+            <bankverbindung>
+                <BIC>UBSWCHZH80H</BIC>
+                <Kontonummer>75847683</Kontonummer>
+            </bankverbindung>
+            <bankverbindung>
+                <BitcoinAdresse>1P82rBiJHDFSav2QrKx1bvdDRVh5QnGkkZ</BitcoinAdresse>
+            </bankverbindung>
+        </zahlungsmoeglichkeiten>
+    </rechnung>
+    <rechnung>
+        <leistungssteller>
+            <name>Weinhandel von Langers</name>
+            <adresse>
+                <strasse>Emiiangasse</strasse>
+                <hausnummer>19</hausnummer>
+                <postleitzahl>86866</postleitzahl>
+                <ort>Mickhausen</ort>
+            </adresse>
+            <steuernummer>DE123456789</steuernummer>
+        </leistungssteller>
+        <leistungsempfaenger>
+            <anrede>Seine Exzellenz der Hochw&#252;rdigste Herr Erzbischof</anrede>
+            <name>Waldaus Mikksa</name>
+            <adresse>
+                <strasse>Fronhof</strasse>
+                <hausnummer>4</hausnummer>
+                <postleitzahl>86152</postleitzahl>
+                <ort>Augsburg</ort>
+            </adresse>
+        </leistungsempfaenger>
+        <rechnungsdatum>7.11.2009</rechnungsdatum>
+        <rechnungsnummer>611-555-32</rechnungsnummer>
+        <dienstleistungen>
+            <dienstleistung>
+                <position>1</position>
+                <menge-oder-umfang>1 Fass</menge-oder-umfang>
+                <art-der-dienstleistung>&#32;Liebliche Gottesmilbe&#32;</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>2299.98</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>2299.98</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst></mwst>
+            </dienstleistung>
+            <dienstleistung>
+                <position>2</position>
+                <menge-oder-umfang>100 St&#252;ck</menge-oder-umfang>
+                <art-der-dienstleistung>Standartweingl&#228;ser &#32;Schluck&#32;</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>5.99</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>59.90</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+                <mwst></mwst>
+            </dienstleistung>
+        </dienstleistungen>
+        <kosten>
+            <steuerbetrag>
+                <betrag>376.79</betrag>
+                <waehrung>€</waehrung>
+            </steuerbetrag>
+            <entgeld>
+                <betrag>2359.88</betrag>
+                <waehrung>€</waehrung>
+            </entgeld>
+            <nettobetrag>
+                <betrag>1983.09</betrag>
+                <waehrung>€</waehrung>
+            </nettobetrag>
+        </kosten>
+        <zahlungsmoeglichkeiten>
+            <bankverbindung>
+                <BLZ>37060193</BLZ>
+                <Kontonummer>80200601</Kontonummer>
+                <Bank>Pax-Bank K&#256;ln</Bank>
+            </bankverbindung>
+        </zahlungsmoeglichkeiten>
+    </rechnung>
+    <rechnung>
+        <leistungssteller>
+            <name>Peer Weidmann</name>
+            <adresse>
+                <strasse>K&#252;rschnergasse</strasse>
+                <hausnummer>77</hausnummer>
+                <postleitzahl>76131</postleitzahl>
+                <ort>Karlsgrube</ort>
+            </adresse>
+        </leistungssteller>
+        <leistungsempfaenger>
+            <anrede>Herr</anrede>
+            <name>Claudius Artemis</name>
+            <adresse>
+                <strasse>Am Wolfsweiher</strasse>
+                <hausnummer>7</hausnummer>
+                <postleitzahl>56741</postleitzahl>
+                <ort>Hirschhausen</ort>
+            </adresse>
+        </leistungsempfaenger>
+        <rechnungsdatum>9.8.2017</rechnungsdatum>
+        <rechnungsnummer>1</rechnungsnummer>
+        <dienstleistungen>
+            <dienstleistung>
+                <position>1</position>
+                <menge-oder-umfang>1</menge-oder-umfang>
+                <art-der-dienstleistung>Vogelschnepper, um 1600</art-der-dienstleistung>
+                <einzelpreis>
+                    <betrag>3499</betrag>
+                    <waehrung>€</waehrung>
+                </einzelpreis>
+                <gesamtpreis>
+                    <betrag>3499</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+            </dienstleistung>
+            <dienstleistung>
+                <position>2</position>
+                <menge-oder-umfang>200</menge-oder-umfang>
+                <art-der-dienstleistung>Schusser, um 1720</art-der-dienstleistung>
+                <gesamtpreis>
+                    <betrag>99.99</betrag>
+                    <waehrung>€</waehrung>
+                </gesamtpreis>
+            </dienstleistung>
+        </dienstleistungen>
+        <kosten>
+            <entgeld>
+                <betrag>3598.99</betrag>
+                <waehrung>€</waehrung>
+            </entgeld>
+        </kosten>
+        <zahlungsmoeglichkeiten>
+            <bankverbindung>
+                <BAR>Zahlbar in Bar bei Abholung.</BAR>
+            </bankverbindung>
+        </zahlungsmoeglichkeiten>
+    </rechnung>
+</rechnungssammlung>
